@@ -1,5 +1,5 @@
 #Спасибо за скачивание
-#Связаться со мной
+#Связаться со мной megahackerIKIT@mailforspam.com
 
 import random
 
